@@ -5,14 +5,14 @@
 		"link": "https://google.com"
 	},
     {
-		"prompt": "This is the second question:1+1",
-		"answer": "This is the answer:2.",
+		"prompt": "This is the second question:3+3",
+		"answer": "This is the answer:9.",
 		"link": "https://google.com"
 	}
 	,
     {
-		"prompt": "This is the second question: 2+2",
-		"answer": "This is the answer 4.",
+		"prompt": "This is the second question: 10+10",
+		"answer": "This is the answer 20.",
 		"link": "https://google.com"
 	},
     {
