@@ -1,21 +1,21 @@
 [
     {
-		"prompt": "<span>Here is a cat </span>. Tell <b>me</b> something.",
-		"answer": "Here are two cats. <span> regular noun </span> irregular noun" ,
-		"link": "Add -s to the end in order to make regular noun plural"
+		"prompt": "Here is a cat. Is that noun regular or irregular?",
+		"answer": "Here are two cats. <span> Regular noun </span> Irregular noun, add -s to the end in order to make regular noun plural"
+		
 		
 	}
 	,	
     {
-		"prompt": "This is the second question:3+3",
-		"answer": "This is the answer:9.",
-		"link": "https://google.com"
+		"prompt": "There is a lens. Is that noun regular or irregular?",
+		"answer": "There are two lenses. <span> Regular noun </span> Irregular noun, if the singular noun ends in -s, add -es to the end to make it plural "
+		
 	}
 	,
     {
-		"prompt": "This is the second question: 10+10",
-		"answer": "This is the answer 20.",
-		"link": "https://google.com"
+		"prompt": "Here is a compass. Is that noun regular or irregular?",
+		"answer": "Here are two compasses. <span> Regular noun </span> Irregular noun, if the singular noun ends in -s, add -es to the end to make it plural "
+		
 	},
     {
 		"prompt": "This is the second question abcde",
