@@ -7,28 +7,28 @@
 	}
 	,	
     {
-		"prompt": "There is a lens. Is that noun regular or irregular? <img src='https://hk.canon/media/image/2023/10/04/7e87d9f1109e44dda380b24e785c5163_RF10-20mm+f4L+IS+STM+Front+Slant+02.png' width='90' height='60'/>",
-		"answer": "There are two lenses. <span> Regular noun </span>, if the singular noun ends in -s, add -es to the end to make it plural <img src='https://hk.canon/media/image/2023/10/04/7e87d9f1109e44dda380b24e785c5163_RF10-20mm+f4L+IS+STM+Front+Slant+02.png' width='90' height='60'/><img src='https://hk.canon/media/image/2023/10/04/7e87d9f1109e44dda380b24e785c5163_RF10-20mm+f4L+IS+STM+Front+Slant+02.png' width='90' height='60'/>"
+		"prompt": "There is a <b>lens</b>. Is that noun regular or irregular? <img src='https://hk.canon/media/image/2023/10/04/7e87d9f1109e44dda380b24e785c5163_RF10-20mm+f4L+IS+STM+Front+Slant+02.png' width='90' height='60'/>",
+		"answer": "There are two <b>lenses</b>. <span> Regular noun </span>, if the singular noun ends in -s, add -es to the end to make it plural <img src='https://hk.canon/media/image/2023/10/04/7e87d9f1109e44dda380b24e785c5163_RF10-20mm+f4L+IS+STM+Front+Slant+02.png' width='90' height='60'/><img src='https://hk.canon/media/image/2023/10/04/7e87d9f1109e44dda380b24e785c5163_RF10-20mm+f4L+IS+STM+Front+Slant+02.png' width='90' height='60'/>"
 		
 	}
 	,
     {
-		"prompt": "Here is a compass. Is that noun regular or irregular? <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv3guZxt27-cPvzqaC1qz-ncf0oHCqLpW6pg&usqp=CAU' width='90' height='60'/>",
-		"answer": "Here are two compasses. <span> Regular noun </span>, if the singular noun ends in -ss, add -es to the end to make it plural <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv3guZxt27-cPvzqaC1qz-ncf0oHCqLpW6pg&usqp=CAU' width='90' height='60'/><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv3guZxt27-cPvzqaC1qz-ncf0oHCqLpW6pg&usqp=CAU' width='90' height='60'/>"
+		"prompt": "Here is a <b>compass</b>. Is that noun regular or irregular? <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv3guZxt27-cPvzqaC1qz-ncf0oHCqLpW6pg&usqp=CAU' width='90' height='60'/>",
+		"answer": "Here are two <b>compasses</b>. <span> Regular noun </span>, if the singular noun ends in -ss, add -es to the end to make it plural <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv3guZxt27-cPvzqaC1qz-ncf0oHCqLpW6pg&usqp=CAU' width='90' height='60'/><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv3guZxt27-cPvzqaC1qz-ncf0oHCqLpW6pg&usqp=CAU' width='90' height='60'/>"
 		
 	},
     {
-		"prompt": "There is a sheep. Is that noun regular or irregular?<img src='https://spca.bc.ca/wp-content/uploads/2020/03/lamb-baby-sheep-outdoors-1.jpg' width='90' height='60'/>",
-		"answer": "There are two sheep. <span> Regular noun </span>, some nouns don't need to change in plural form. <img src='https://spca.bc.ca/wp-content/uploads/2020/03/lamb-baby-sheep-outdoors-1.jpg' width='90' height='60'/><img src='https://spca.bc.ca/wp-content/uploads/2020/03/lamb-baby-sheep-outdoors-1.jpg' width='90' height='60'/>"
+		"prompt": "There is a <b>sheep</b>. Is that noun regular or irregular?<img src='https://spca.bc.ca/wp-content/uploads/2020/03/lamb-baby-sheep-outdoors-1.jpg' width='90' height='60'/>",
+		"answer": "There are two <b>sheep</b>. <span> Regular noun </span>, some nouns don't need to change in plural form. <img src='https://spca.bc.ca/wp-content/uploads/2020/03/lamb-baby-sheep-outdoors-1.jpg' width='90' height='60'/><img src='https://spca.bc.ca/wp-content/uploads/2020/03/lamb-baby-sheep-outdoors-1.jpg' width='90' height='60'/>"
 	},
     {
-		"prompt": "Here is a man. Is that noun regular or irregular?<img src='https://img.freepik.com/free-vector/manager_1308-84256.jpg' width='90' height='60'/>",
-		"answer": "Here are two men. <span> Irregular noun </span>, Irregular nouns don't have specific rules when forming in plural form. <img src='https://img.freepik.com/free-vector/manager_1308-84256.jpg' width='90' height='60'/><img src='https://i0.wp.com/www.jamiesale-cartoonist.com/wp-content/uploads/cartoon-business-man-free1.png?ssl=1' width='90' height='60'/>"
+		"prompt": "Here is a <b>man</b>. Is that noun regular or irregular?<img src='https://img.freepik.com/free-vector/manager_1308-84256.jpg' width='90' height='60'/>",
+		"answer": "Here are two <b>men</b>. <span> Irregular noun </span>, Irregular nouns don't have specific rules when forming in plural form. <img src='https://img.freepik.com/free-vector/manager_1308-84256.jpg' width='90' height='60'/><img src='https://i0.wp.com/www.jamiesale-cartoonist.com/wp-content/uploads/cartoon-business-man-free1.png?ssl=1' width='90' height='60'/>"
 		
 	},
     {
-		"prompt": "There is a goose. Is that noun regular or irregular?<img src='https://cdn.pixabay.com/photo/2014/04/03/10/45/goose-311362_1280.png' width='90' height='60'/>",
-		"answer": "There are two geese. <span> Irregular noun </span>, Irregular nouns don't have specific rules when forming in plural form. <img src='https://cdn.pixabay.com/photo/2014/04/03/10/45/goose-311362_1280.png' width='90' height='60'/><img src='https://cdn.pixabay.com/photo/2022/07/31/18/04/cartoon-goose-7356496_1280.png' width='90' height='60'/>"
+		"prompt": "There is a <b>goose</b>. Is that noun regular or irregular?<img src='https://cdn.pixabay.com/photo/2014/04/03/10/45/goose-311362_1280.png' width='90' height='60'/>",
+		"answer": "There are two <b>geese</b>. <span> Irregular noun </span>, Irregular nouns don't have specific rules when forming in plural form. <img src='https://cdn.pixabay.com/photo/2014/04/03/10/45/goose-311362_1280.png' width='90' height='60'/><img src='https://cdn.pixabay.com/photo/2022/07/31/18/04/cartoon-goose-7356496_1280.png' width='90' height='60'/>"
 		
 	}
 ]
