@@ -1,7 +1,7 @@
 [
     {
-		"prompt": "Here is a cat. Is that noun regular or irregular? <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSN5kyGXRsJTnCvfM371Ycg8u7k9viw1gW-g&usqp=CAU' width='90' height='60'/>",
-		"answer": "Here are two cats. <span> Regular noun </span>, add -s to the end in order to make regular noun plural <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSN5kyGXRsJTnCvfM371Ycg8u7k9viw1gW-g&usqp=CAU' width='90' height='60'/><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSN5kyGXRsJTnCvfM371Ycg8u7k9viw1gW-g&usqp=CAU' width='90' height='60'/>"
+		"prompt": "Here is a <b>cat</b>. Is that noun regular or irregular? <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSN5kyGXRsJTnCvfM371Ycg8u7k9viw1gW-g&usqp=CAU' width='90' height='60'/>",
+		"answer": "Here are two <b>cats</b>. <span> Regular noun </span>, add -s to the end in order to make regular noun plural <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSN5kyGXRsJTnCvfM371Ycg8u7k9viw1gW-g&usqp=CAU' width='90' height='60'/><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSN5kyGXRsJTnCvfM371Ycg8u7k9viw1gW-g&usqp=CAU' width='90' height='60'/>"
 		
 		
 	}
