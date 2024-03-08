@@ -1,9 +1,11 @@
 [
     {
-		"prompt": "Test question <span>1234</span>. Tell <b>me</b> something.",
-		"answer": "This is the answer.",
-		"link": "https://google.com"
-	},
+		"prompt": "<span>Here is a cat </span>. Tell <b>me</b> something.",
+		"answer": "Here are two cats. <span> regular noun </span> irregular noun" ,
+		"link": "Add -s to the end in order to make regular noun plural"
+		
+	}
+	,	
     {
 		"prompt": "This is the second question:3+3",
 		"answer": "This is the answer:9.",
